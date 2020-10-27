@@ -11,7 +11,7 @@ return RTotal;
 
 void main()
 {
-int R1, R2, R3, R4, R5;
+int R1, R2, R3, R4, R5;//Estructuras repetitivas
 printf("Ingrese las resistencias");
 scanf("%d",&R1);
 scanf("%d",&R2);
